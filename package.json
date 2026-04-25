@@ -1,0 +1,27 @@
+{
+  "name": "daddyproject",
+  "version": "1.0.0",
+  "description": "Sugar Daddy\r INFO",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fe1ixTRAP/DaddyProject.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Fe1ixTRAP/DaddyProject/issues"
+  },
+  "homepage": "https://github.com/Fe1ixTRAP/DaddyProject#readme",
+  "dependencies": {
+    "phaser": "^4.0.0"
+  },
+  "devDependencies": {
+    "vite": "^8.0.10"
+  }
+}
